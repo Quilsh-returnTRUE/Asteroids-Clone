@@ -221,7 +221,7 @@ int main()
 
 		if (player.life <= 0)
 		{
-			std::cout << "YOURE DEAD NIGGA" << std::endl;
+			std::cout << "YOURE DEAD" << std::endl;
 		}
 
 
